@@ -1,0 +1,12 @@
+C:\Users\elton.sbueno\Source\Repos\Senac-ExercicioUC13\ExercicioUC13.Core\bin\Debug\net5.0\ExercicioUC13.Core.deps.json
+C:\Users\elton.sbueno\Source\Repos\Senac-ExercicioUC13\ExercicioUC13.Core\bin\Debug\net5.0\ExercicioUC13.Core.dll
+C:\Users\elton.sbueno\Source\Repos\Senac-ExercicioUC13\ExercicioUC13.Core\bin\Debug\net5.0\ref\ExercicioUC13.Core.dll
+C:\Users\elton.sbueno\Source\Repos\Senac-ExercicioUC13\ExercicioUC13.Core\bin\Debug\net5.0\ExercicioUC13.Core.pdb
+C:\Users\elton.sbueno\Source\Repos\Senac-ExercicioUC13\ExercicioUC13.Core\obj\Debug\net5.0\ExercicioUC13.Core.csproj.AssemblyReference.cache
+C:\Users\elton.sbueno\Source\Repos\Senac-ExercicioUC13\ExercicioUC13.Core\obj\Debug\net5.0\ExercicioUC13.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elton.sbueno\Source\Repos\Senac-ExercicioUC13\ExercicioUC13.Core\obj\Debug\net5.0\ExercicioUC13.Core.AssemblyInfoInputs.cache
+C:\Users\elton.sbueno\Source\Repos\Senac-ExercicioUC13\ExercicioUC13.Core\obj\Debug\net5.0\ExercicioUC13.Core.AssemblyInfo.cs
+C:\Users\elton.sbueno\Source\Repos\Senac-ExercicioUC13\ExercicioUC13.Core\obj\Debug\net5.0\ExercicioUC13.Core.csproj.CoreCompileInputs.cache
+C:\Users\elton.sbueno\Source\Repos\Senac-ExercicioUC13\ExercicioUC13.Core\obj\Debug\net5.0\ExercicioUC13.Core.dll
+C:\Users\elton.sbueno\Source\Repos\Senac-ExercicioUC13\ExercicioUC13.Core\obj\Debug\net5.0\ref\ExercicioUC13.Core.dll
+C:\Users\elton.sbueno\Source\Repos\Senac-ExercicioUC13\ExercicioUC13.Core\obj\Debug\net5.0\ExercicioUC13.Core.pdb
